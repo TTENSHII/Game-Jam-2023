@@ -44,19 +44,23 @@ For testing purposes, the game is provided in a Google Drive link due to its lar
 - 🎮 (No time to finish the controller controls)
 - 📘 Controls can be accessed by holding down TAB in game
 
-| Key    | Action      |
-| ------ | ----------- |
-| WASD   | Movements   |
-| F      | Interact    |
-| G      | Heal        |
-| Space  | Jump        |
-| Shift  | Dash        |
-| Ctrl   | Sprint      |
-| Tab    | Keybinds    |
-| 1      | Katana      |
-| 2      | AR          |
-| 3      | Hands       |
-| ESC    | Menu pause  |
+| Key          | Action        |
+| -------------| ------------- |
+| WASD         | Movements     |
+| F            | Interact      |
+| G            | Heal          |
+| Space        | Jump          |
+| Shift        | Dash          |
+| Ctrl         | Sprint        |
+| Tab          | Keybinds      |
+| Mouse Right  | Heavy attack  |
+| Mouse left   | Light attack  |
+| A            | Combo 1       |
+| E            | Combo 2       |
+| 1            | Katana        |
+| 2            | AR            |
+| 3            | Hands         |
+| ESC          | Menu pause    |
 
 ## 🐞 Known Bugs
 Some bugs couldn't be fixed in time:
