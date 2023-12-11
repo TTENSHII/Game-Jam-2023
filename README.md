@@ -24,7 +24,7 @@
 - 🎮 **Gameplay:** I mainly used c++ for the core gameplay.
 - 🚀 **Animation:** I used Blueprints for the animations (Anim BP, Blendspaces, etc.).
 - 🖥️ **HUD/Menus:** Designed in Figma and implemented using Blueprints.
-- 🎨 **Assets:** meshs and maps are from Unreal marketplace.
+- 🎨 **Assets:** Meshs, maps and musics are from Unreal marketplace.
 
 ## 🎥 Video Trailer
 
